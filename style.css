@@ -52,7 +52,7 @@ a {
 .category {
     font-weight: 700;
     font-size: 14px;
-    background-color: var(---yellow);
+    background-color: hsl(47, 88%, 63%);
     border-radius: 4px;
     padding: 4px 12px;
 }
@@ -63,7 +63,7 @@ a {
 }
 
 a.title:hover {
-    color: var(---yellow);
+    color: hsl(47, 88%, 63%);
     cursor: ;
     caret-color: var(---black);
 }
